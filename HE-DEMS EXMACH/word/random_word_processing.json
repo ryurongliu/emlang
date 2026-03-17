@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "color": "640089ff",
+            "hap1": 5,
+            "hap2": 3,
+            "numsounds": 1
+        },
+        {
+            "color": "64ff7700",
+            "hap1": 7,
+            "hap2": 3,
+            "numsounds": 1
+        },
+        {
+            "color": "645aff00",
+            "hap1": 7,
+            "hap2": 5,
+            "numsounds": 1
+        },
+        {
+            "color": "640089ff",
+            "hap1": 6,
+            "hap2": 3,
+            "numsounds": 2
+        },
+        {
+            "color": "64650067",
+            "hap1": 6,
+            "hap2": 4,
+            "numsounds": 1
+        },
+        {
+            "color": "64610000",
+            "hap1": 7,
+            "hap2": 6,
+            "numsounds": 2
+        }
+    ]
+}

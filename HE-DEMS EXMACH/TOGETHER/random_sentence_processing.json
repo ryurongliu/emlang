@@ -1,0 +1,802 @@
+{
+    "data": [
+        [
+            {
+                "color": "6400ff17",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64660068",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "645aff00",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0093",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 2
+            },
+            {
+                "color": "640089ff",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "647c0093",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "6467006a",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "64610000",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "64660068",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "648300b3",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "647c0093",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "64650066",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0093",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 3
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 2
+            },
+            {
+                "color": "647b0091",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64003bff",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "647c0095",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "647b0091",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "647b0091",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64610000",
+                "hap1": 7,
+                "hap2": 6,
+                "numsounds": 3
+            },
+            {
+                "color": "64003bff",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "647c00de",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "640089ff",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "64640066",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0093",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "64610061",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "647900e6",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "64003bff",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "645aff00",
+                "hap1": 7,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "648300b3",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64640066",
+                "hap1": 7,
+                "hap2": 6,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "640800ff",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "6467006a",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "64650067",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64650067",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 1
+            }
+        ],
+        [
+            {
+                "color": "647b0091",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "647c0093",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0095",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "64610000",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "647f009d",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "64003bff",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "64610000",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 3
+            },
+            {
+                "color": "64003bff",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "640089ff",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "647f009d",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64660068",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0095",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "64003bff",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "647900e6",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "645aff00",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "647900e6",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "64610061",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64640066",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "64640066",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "647c00de",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64650067",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "647c0093",
+                "hap1": 7,
+                "hap2": 6,
+                "numsounds": 1
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "647900e6",
+                "hap1": 7,
+                "hap2": 6,
+                "numsounds": 3
+            },
+            {
+                "color": "647900e6",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "64610061",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "64610061",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "6400ff17",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "646a00ff",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64003bff",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "64660068",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "647c0095",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "647c0093",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "647b0091",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64650066",
+                "hap1": 7,
+                "hap2": 6,
+                "numsounds": 1
+            }
+        ],
+        [
+            {
+                "color": "648300b3",
+                "hap1": 7,
+                "hap2": 4,
+                "numsounds": 2
+            },
+            {
+                "color": "64610000",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "64650066",
+                "hap1": 7,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "647c0095",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "645aff00",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "6400ff17",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "647b0091",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 1
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "647b0091",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "646a00ff",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 1
+            },
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "647c00de",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "647c00de",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "646a00ff",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "647f009d",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 1
+            }
+        ],
+        [
+            {
+                "color": "645aff00",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "646a00ff",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "647c00de",
+                "hap1": 7,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64ff7700",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64650067",
+                "hap1": 7,
+                "hap2": 5,
+                "numsounds": 1
+            }
+        ],
+        [
+            {
+                "color": "647c00de",
+                "hap1": 3,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "647f009d",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 3
+            },
+            {
+                "color": "640800ff",
+                "hap1": 7,
+                "hap2": 4,
+                "numsounds": 1
+            },
+            {
+                "color": "647900e6",
+                "hap1": 5,
+                "hap2": 4,
+                "numsounds": 2
+            },
+            {
+                "color": "64003bff",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64003bff",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 3
+            }
+        ],
+        [
+            {
+                "color": "64610000",
+                "hap1": 4,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "64650066",
+                "hap1": 7,
+                "hap2": 3,
+                "numsounds": 3
+            },
+            {
+                "color": "648300b3",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0095",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "64650066",
+                "hap1": 6,
+                "hap2": 4,
+                "numsounds": 2
+            }
+        ],
+        [
+            {
+                "color": "640089ff",
+                "hap1": 6,
+                "hap2": 5,
+                "numsounds": 2
+            },
+            {
+                "color": "647900e6",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 1
+            },
+            {
+                "color": "640800ff",
+                "hap1": 5,
+                "hap2": 3,
+                "numsounds": 2
+            },
+            {
+                "color": "648300b3",
+                "hap1": 6,
+                "hap2": 2,
+                "numsounds": 2
+            },
+            {
+                "color": "64610000",
+                "hap1": 5,
+                "hap2": 2,
+                "numsounds": 3
+            },
+            {
+                "color": "647c0095",
+                "hap1": 4,
+                "hap2": 3,
+                "numsounds": 1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,4202 @@
+[
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "up"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 1,
+                    "emfreq": 97.254,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "down",
+                "free",
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "up",
+                "free",
+                "free"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 4,
+                    "emfreq": 2625.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike",
+                "spike"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 2,
+                    "inner": 1,
+                    "emfreq": 121.57,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "up",
+                "spike",
+                "free"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 1,
+                    "emfreq": 97.254,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 2,
+                    "emfreq": 656.279,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "up",
+                "up",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "spike",
+                "spike"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "down",
+                "spike",
+                "free"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "up",
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up",
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "down",
+                "down"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down",
+                "up",
+                "free"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "free",
+                "free",
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "down",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 6
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "free",
+                "spike",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "spike"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 4,
+                    "emfreq": 2625.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 1,
+                    "emfreq": 102.57,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "down",
+                "up",
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 1,
+                    "emfreq": 93.075,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "free"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "free",
+                "down"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free",
+                "spike",
+                "down"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 2,
+                    "emfreq": 656.279,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "down",
+                "spike"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 1,
+                    "emfreq": 102.57,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 6
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike",
+                "free"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 3,
+                    "emfreq": 1875.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 2,
+                    "inner": 1,
+                    "emfreq": 121.57,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "down",
+                "down"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "up",
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "up",
+                "up",
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 2,
+                    "emfreq": 486.135,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "free",
+                "spike"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up",
+                "spike",
+                "up"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 4,
+                    "emfreq": 2625.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "down",
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 2,
+                    "emfreq": 486.135,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 1,
+                    "emfreq": 97.254,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "down",
+                "down",
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike",
+                "up",
+                "up"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down",
+                "free",
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "free",
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up",
+                "up",
+                "free"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free",
+                "spike",
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free",
+                "free",
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 1,
+                    "emfreq": 93.075,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 1,
+                    "emfreq": 102.57,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "free",
+                "free"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 1,
+                    "emfreq": 102.57,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "up",
+                "spike"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 6
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 6
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up",
+                "spike",
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free",
+                "up"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 1,
+                    "emfreq": 93.075,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "free",
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike",
+                "free"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 1,
+                    "emfreq": 93.075,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "free",
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "up",
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 3,
+                    "emfreq": 1282.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "free",
+                "up",
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 1,
+                    "emfreq": 97.254,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "free",
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 2,
+                    "emfreq": 410.173,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "down",
+                "down",
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "down",
+                "up",
+                "spike"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 3
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "spike",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 6
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 2,
+                    "emfreq": 656.279,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 4
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "free"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "spike",
+                "free"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 4
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "up",
+                "up"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 4,
+                    "emfreq": 4051.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "down",
+                "free"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "free",
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 2,
+                    "emfreq": 397.008,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "free",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 3,
+                    "emfreq": 1282.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "free"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike",
+                "spike",
+                "free"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 4
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "down",
+                "free"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "spike",
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 3,
+                    "emfreq": 1282.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "down",
+                "down",
+                "free"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 2,
+                    "emfreq": 486.135,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "down"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "up",
+                "down",
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "free",
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 3,
+                    "emfreq": 1282.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "free"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 5,
+                    "emfreq": 7460.0,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "up"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 1,
+                    "emfreq": 94.974,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 5
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 3,
+                    "inner": 2
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "spike",
+                "spike",
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 2,
+                    "emfreq": 486.135,
+                    "width": "doubly-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "spike",
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 3,
+                    "emfreq": 1875.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 4
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 4
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "down",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up",
+                "down"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "up",
+                "up",
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "UV-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "up",
+                "down",
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    }
+                ],
+                "haptics": {
+                    "outer": 7,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri-inv",
+            "soundshape": [
+                "up",
+                "spike",
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 2,
+                    "emfreq": 656.279,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "up",
+                "down",
+                "up"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "IR-ext"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 3,
+                        "emfreq": 1005.0,
+                        "soundfreq": 833.3442489743459
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "none",
+            "soundshape": [
+                "free",
+                "up",
+                "down"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 1,
+                    "emfreq": 93.78,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 4
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike",
+                "down"
+            ]
+        }
+    },
+    {
+        "m1": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 4,
+                    "emfreq": 2625.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 5
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "down",
+                "down"
+            ]
+        },
+        "m2": {
+            "phoneme": {
+                "emission": {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "hipass",
+            "soundshape": [
+                "spike"
+            ]
+        },
+        "m3": {
+            "phoneme": {
+                "emission": {
+                    "outer": 4,
+                    "inner": 3,
+                    "emfreq": 1875.0,
+                    "width": "normal"
+                },
+                "sounds": [
+                    {
+                        "outer": 6,
+                        "inner": 3,
+                        "emfreq": 1094.0,
+                        "soundfreq": 843.5734585375394
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 3
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "up",
+                "up"
+            ]
+        },
+        "m4": {
+            "phoneme": {
+                "emission": {
+                    "outer": 3,
+                    "inner": 2,
+                    "emfreq": 656.279,
+                    "width": "UV-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 7,
+                        "inner": 4,
+                        "emfreq": 2166.0,
+                        "soundfreq": 925.9153992739427
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 6,
+                    "inner": 2
+                }
+            },
+            "emshape": "bandpass",
+            "soundshape": [
+                "spike",
+                "down"
+            ]
+        },
+        "m5": {
+            "phoneme": {
+                "emission": {
+                    "outer": 7,
+                    "inner": 6,
+                    "emfreq": 12370.0,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    },
+                    {
+                        "outer": 5,
+                        "inner": 3,
+                        "emfreq": 1282.0,
+                        "soundfreq": 862.6906570008321
+                    },
+                    {
+                        "outer": 7,
+                        "inner": 5,
+                        "emfreq": 4654.0,
+                        "soundfreq": 1018.118903571457
+                    }
+                ],
+                "haptics": {
+                    "outer": 5,
+                    "inner": 2
+                }
+            },
+            "emshape": "lowpass",
+            "soundshape": [
+                "spike",
+                "up",
+                "spike"
+            ]
+        },
+        "m6": {
+            "phoneme": {
+                "emission": {
+                    "outer": 5,
+                    "inner": 2,
+                    "emfreq": 434.047,
+                    "width": "IR-dim"
+                },
+                "sounds": [
+                    {
+                        "outer": 5,
+                        "inner": 2,
+                        "emfreq": 434.047,
+                        "soundfreq": 732.1300834924069
+                    }
+                ],
+                "haptics": {
+                    "outer": 4,
+                    "inner": 3
+                }
+            },
+            "emshape": "tri",
+            "soundshape": [
+                "spike"
+            ]
+        }
+    }
+]

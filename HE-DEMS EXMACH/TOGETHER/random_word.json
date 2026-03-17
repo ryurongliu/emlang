@@ -1,0 +1,172 @@
+{
+    "m1": {
+        "phoneme": {
+            "emission": {
+                "outer": 6,
+                "inner": 4,
+                "emfreq": 2625.0,
+                "width": "UV-dim"
+            },
+            "sounds": [
+                {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "soundfreq": 833.3442489743459
+                }
+            ],
+            "haptics": {
+                "outer": 5,
+                "inner": 3
+            }
+        },
+        "emshape": "lowpass",
+        "soundshape": [
+            "free"
+        ]
+    },
+    "m2": {
+        "phoneme": {
+            "emission": {
+                "outer": 6,
+                "inner": 5,
+                "emfreq": 7460.0,
+                "width": "normal"
+            },
+            "sounds": [
+                {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "soundfreq": 843.5734585375394
+                }
+            ],
+            "haptics": {
+                "outer": 7,
+                "inner": 3
+            }
+        },
+        "emshape": "bandpass",
+        "soundshape": [
+            "spike"
+        ]
+    },
+    "m3": {
+        "phoneme": {
+            "emission": {
+                "outer": 7,
+                "inner": 5,
+                "emfreq": 4654.0,
+                "width": "IR-dim"
+            },
+            "sounds": [
+                {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "soundfreq": 843.5734585375394
+                }
+            ],
+            "haptics": {
+                "outer": 7,
+                "inner": 5
+            }
+        },
+        "emshape": "tri",
+        "soundshape": [
+            "free"
+        ]
+    },
+    "m4": {
+        "phoneme": {
+            "emission": {
+                "outer": 6,
+                "inner": 4,
+                "emfreq": 2625.0,
+                "width": "IR-dim"
+            },
+            "sounds": [
+                {
+                    "outer": 7,
+                    "inner": 5,
+                    "emfreq": 4654.0,
+                    "soundfreq": 1018.118903571457
+                },
+                {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "soundfreq": 833.3442489743459
+                }
+            ],
+            "haptics": {
+                "outer": 6,
+                "inner": 3
+            }
+        },
+        "emshape": "tri-inv",
+        "soundshape": [
+            "down",
+            "up"
+        ]
+    },
+    "m5": {
+        "phoneme": {
+            "emission": {
+                "outer": 5,
+                "inner": 1,
+                "emfreq": 94.974,
+                "width": "doubly-ext"
+            },
+            "sounds": [
+                {
+                    "outer": 7,
+                    "inner": 3,
+                    "emfreq": 1005.0,
+                    "soundfreq": 833.3442489743459
+                }
+            ],
+            "haptics": {
+                "outer": 6,
+                "inner": 4
+            }
+        },
+        "emshape": "none",
+        "soundshape": [
+            "spike"
+        ]
+    },
+    "m6": {
+        "phoneme": {
+            "emission": {
+                "outer": 7,
+                "inner": 6,
+                "emfreq": 12370.0,
+                "width": "IR-ext"
+            },
+            "sounds": [
+                {
+                    "outer": 6,
+                    "inner": 3,
+                    "emfreq": 1094.0,
+                    "soundfreq": 843.5734585375394
+                },
+                {
+                    "outer": 7,
+                    "inner": 4,
+                    "emfreq": 2166.0,
+                    "soundfreq": 925.9153992739427
+                }
+            ],
+            "haptics": {
+                "outer": 7,
+                "inner": 6
+            }
+        },
+        "emshape": "bandpass",
+        "soundshape": [
+            "spike",
+            "down"
+        ]
+    }
+}
